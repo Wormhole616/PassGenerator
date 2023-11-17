@@ -25,6 +25,7 @@ Not required, only access through the following link!
 if publushid in Github pages or through my Github repository at 
 
 https://github.com/Wormhole616/PassGenerator
+https://wormhole616.github.io/PassGenerator/
 ![screenshots] (/repository/assets/screenshots/usage1.jpg? raw=true "usage screenshots")
 
 
