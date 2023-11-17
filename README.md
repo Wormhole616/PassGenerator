@@ -15,13 +15,18 @@ Why did I build the project?
 What did it solve
     You can also password-protect your portfolio to ensure that only authorized users can access it. Plus you now have a very usefull tool whenever you need a new strong password.
 
-    What did I learn?
-         The addEventListener() method is a recommended way to register an event listener, as it allows adding more than one handler for an event.
+What did I learn?
+   The addEventListener() method is a recommended way to register an event listener, as it allows adding more than one handler for an event.
 
 
 
 ## Installation
 Not required, only access through the following link!
+if publushid in Github pages or through my Github repository at 
+
+https://github.com/Wormhole616/PassGenerator
+![screenshots] (/repository/assets/screenshots/usage1.jpg? raw=true "usage screenshots")
+
 
 
 ## Usage
